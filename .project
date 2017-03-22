@@ -6,12 +6,6 @@
 	</projects>
 	<buildSpec>
 	</buildSpec>
-<<<<<<< HEAD
-	<natures>
-    <nature>org.eclipse.jdt.core.javanature</nature>
- </natures>
-=======
 	<natures>org.eclipse.jdt.core.javanature
 	</natures>
->>>>>>> branch 'master' of https://github.com/stellarutg/Team7D.git
 </projectDescription>
